@@ -14,9 +14,9 @@ I'm a **3rd Year Student** at **UNSW** focused on building clean, scalable web a
 
 ---
 
-### 🔭 Currently working on...
-- 🎮 **Gamified Pomodoro App**: A productivity tool that allows users to level up and catch Pokémon as they complete focus sessions.
-- 🎓 Balancing 3rd-year UNSW coursework with full-stack development.
+### 🚀 What I've been building...
+- 🏆 **Echo**: Privacy-first mental health app — won **Best Design** at UNIHACK 2026 (800+ participants). [Live](https://frontend-mauve-one-57.vercel.app/) · [GitHub](https://github.com/petmav/echo-unihack-2026)
+- 🎮 **PomoPet**: Gamified Pomodoro timer with Pokémon progression mechanics. [Live](https://frontend-cyan-kappa-51.vercel.app/) · [GitHub](https://github.com/0randa/productivity-app)
 - 🌱 Deepening my knowledge of system design and TypeScript architectures.
 
 ---
